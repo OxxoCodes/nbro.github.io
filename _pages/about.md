@@ -14,4 +14,4 @@ I have over a decade of self-led experience with software development, have work
 
 In the meantime, I'm also codirector of [CUhackit](https://cuhack.it/#), Clemson University's official student hackathon organization, the only hackathon organization in South Carolina recognized by [MLH](https://mlh.io/), and home of the largest hackathon in South Carolina! We do a lot of interesting work and help get many future engineers their first start, so if you or your organization are interested in working with us don't hesitate to reach out!
 
-I am always happy to meet with other researchers, industry partners, and anyone else! Feel free to reach out at [nbrown9@clemson.edu](mailto:nbrown9@clemson.edu). Cheers!
+Feel free to reach out with any inquiries at [nbrown9@clemson.edu](mailto:nbrown9@clemson.edu). Cheers!
