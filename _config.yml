@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Brown Portfolio Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nathan Brown"
 description              : &description "Nathan's Portfolio Website"
