@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathan Brown"
   avatar           : "profile.png"
-  bio              : "Clemson University Student, Ex-Microsoft Intern, AI Researcher & Software Development"
+  bio              : "M.S. Clemson University Graduate, Ex-Microsoft SWE Intern, AI Research & Software Development"
   location         : "Clemson, South Carolina"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=HxlGUmcAAAAJ&hl=en"
+  email            : "nbrown9@clemson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "OxxoTweets"
   vine             :
   weibo            :
   xing             :
